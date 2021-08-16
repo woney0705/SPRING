@@ -1,0 +1,28 @@
+gradlew clean
+gradlew build
+
+bulid 폴더 이동후 
+
+자바실행
+java -jar jar파일명
+
+
+jdbc:h2:tcp://localhost/~/test
+
+
+시권장치
+모니터받침대
+노트북받침대
+
+모니터
+키마
+메모리 16기가
+SSD 1T
+
+
+마소 office
+v3
+인텔리
+
+
+
